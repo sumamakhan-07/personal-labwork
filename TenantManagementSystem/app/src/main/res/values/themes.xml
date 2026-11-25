@@ -1,0 +1,4 @@
+<resources>
+    <!-- NoActionBar: we supply our own Toolbar (Practical 3, Step 2) -->
+    <style name="Theme.TenantManagementSystem" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
